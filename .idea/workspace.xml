@@ -36,7 +36,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\londo\PycharmProjects\Guac\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\londo\PycharmProjects\Bitcoin-SMS-Notifier\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -67,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586561269287</updated>
-      <workItem from="1586561271428" duration="327000" />
+      <workItem from="1586561271428" duration="926000" />
+      <workItem from="1586562207248" duration="465000" />
+      <workItem from="1586562699046" duration="8701000" />
     </task>
     <servers />
   </component>
@@ -75,16 +77,48 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586562991817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586562991817" />
     <state x="498" y="28" key="#script" timestamp="1586561578616">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="28" key="#script/0.0.1536.824@0.0.1536.824" timestamp="1586561578616" />
-    <state x="279" y="56" key="SettingsEditor" timestamp="1586561597420">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1586609974471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586561597420" />
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586609974471" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1586609974471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586609974471" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1586609974470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586609974470" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1586609974471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586609974471" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1586562938802">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586562938802" />
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1586562755195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586562755195" />
+    <state x="0" y="0" width="744" height="824" key="find.popup" timestamp="1586562177665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="744" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586562177665" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586566730434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586566730434" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Bitcoin_SMS_Notifier$script.coverage" NAME="script Coverage Results" MODIFIED="1586561578621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bitcoin_SMS_Notifier$script.coverage" NAME="script Coverage Results" MODIFIED="1586609974452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

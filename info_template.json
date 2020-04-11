@@ -1,0 +1,15 @@
+{
+  "twilio": {
+    "account_sid": "",
+    "auth_token": "",
+    "to": "",
+    "from": ""
+  },
+  "coinmarketcap": {
+    "url": "",
+    "api_key": ""
+  },
+  "wallet": {
+    "btc_amount": 0
+  }
+}
